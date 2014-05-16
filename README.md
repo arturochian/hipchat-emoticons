@@ -13,13 +13,28 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 
 ## Emoticons
 
-| Image                                   | Shortcut    |
-| :-------------------------------------: | ----------- |
-| ![007](emoticons/007.png)               | 007         |
-| ![angular](emoticons/angular.png)       | angular     |
-| ![bender](emoticons/bender.png)         | bender      |
-| ![broncos](emoticons/broncos.png)       | broncos     |
-| ![cafewell](emoticons/cafewell.png)     | cafewell    |
-| ![cafewell](emoticons/cafewell.png)     | cafewell    |
-| ![cafewell](emoticons/cafewell.png)     | cafewell    |
-| ![cafewell](emoticons/cafewell.png)     | cafewell    |
+| Image                                     | Shortcut    |
+| :-------------------------------------:   | ----------- |
+| ![007](emoticons/007.png)                 | 007         |
+| ![angular](emoticons/angular.png)         | angular     |
+| ![bender](emoticons/bender.png)           | bender      |
+| ![broncos](emoticons/broncos.png)         | broncos     |
+| ![cafewell](emoticons/cafewell.png)       | cafewell    |
+| ![chachi](emoticons/chachi.png)           | chachi      |
+| ![colorado](emoticons/colorado.png)       | colorado    |
+| ![fitbit](emoticons/fitbit.png)           | fitbit      |
+| ![gabe](emoticons/gabe.png)               | gabe        |
+| ![heroku](emoticons/heroku.png)           | heroku      |
+| ![honeybadger](emoticons/honeybadger.png) | honeybadger |
+| ![justin](emoticons/justin.png)           | justin      |
+| ![kitten](emoticons/kitten.png)           | kitten      |
+| ![kitten2](emoticons/kitten2.png)         | kitten2     |
+| ![kitten3](emoticons/kitten3.png)         | kitten3     |
+| ![nitix](emoticons/nitix.png)             | nitix       |
+| ![postgres](emoticons/postgres.png)       | postgres    |
+| ![rails](emoticons/rails.png)             | rails       |
+| ![rock](emoticons/rock.gif)               | rock        |
+| ![ruby](emoticons/ruby.png)               | ruby        |
+| ![shibe](emoticons/shibe.gif)             | shibe       |
+| ![sidekiq](emoticons/sidekiq.png)         | sidekiq     |
+| ![tuaca](emoticons/tuaca.png)             | tuaca       |
