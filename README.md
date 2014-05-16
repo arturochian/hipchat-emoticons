@@ -32,6 +32,9 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![kitten3](emoticons/kitten3.png)         | kitten3     |
 | ![nixit](emoticons/nixit.png)             | nixit       |
 | ![postgres](emoticons/postgres.png)       | postgres    |
+| ![pug](emoticons/pug.png)                 | pug         |
+| ![pug2](emoticons/pug2.png)               | pug2        |
+| ![pug3](emoticons/pug2.png)               | pug3        |
 | ![rails](emoticons/rails.png)             | rails       |
 | ![rock](emoticons/rock.gif)               | rock        |
 | ![ruby](emoticons/ruby.png)               | ruby        |
