@@ -10,3 +10,16 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
 * Currently limited to 100 custom emoticons
+
+## Emoticons
+
+| Image                                   | Shortcut    |
+| :-------------------------------------: | ----------- |
+| ![007](emoticons/007.png)               | 007         |
+| ![angular](emoticons/angular.png)       | angular     |
+| ![bender](emoticons/bender.png)         | bender      |
+| ![broncos](emoticons/broncos.png)       | broncos     |
+| ![cafewell](emoticons/cafewell.png)     | cafewell    |
+| ![cafewell](emoticons/cafewell.png)     | cafewell    |
+| ![cafewell](emoticons/cafewell.png)     | cafewell    |
+| ![cafewell](emoticons/cafewell.png)     | cafewell    |
