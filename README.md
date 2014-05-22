@@ -21,6 +21,12 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![bender](emoticons/bender.png)           | bender      |
 | ![bike](emoticons/bike.png)               | bike        |
 | ![bluesteel](emoticons/bluesteel.gif)     | bluesteel   |
+| ![bond](emoticons/bond.png)               | bond        |
+| ![bond2](emoticons/bond2.png)             | bond2       |
+| ![bond3](emoticons/bond3.png)             | bond3       |
+| ![bond4](emoticons/bond4.png)             | bond4       |
+| ![bond5](emoticons/bond5.png)             | bond5       |
+| ![bond6](emoticons/bond6.png)             | bond6       |
 | ![broncos](emoticons/broncos.png)         | broncos     |
 | ![bueller](emoticons/bueller.png)         | bueller     |
 | ![cafewell](emoticons/cafewell.png)       | cafewell    |
