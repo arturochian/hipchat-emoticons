@@ -37,7 +37,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![gross](emoticons/gross.gif)               | gross        |
 | ![heroku](emoticons/heroku.png)             | heroku       |
 | ![honeybadger](emoticons/honeybadger.png)   | honeybadger  |
-| ![justin](emoticons/justin.png)             | justin       |
 | ![kangaroo](emoticons/kangaroo.png)         | kangaroo     |
 | ![kangaroo2](emoticons/kangaroo2.png)       | kangaroo2    |
 | ![kangaroo3](emoticons/kangaroo3.png)       | kangaroo3    |
