@@ -43,6 +43,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![kitten](emoticons/kitten.png)             | kitten       |
 | ![kitten2](emoticons/kitten2.png)           | kitten2      |
 | ![kitten3](emoticons/kitten3.png)           | kitten3      |
+| ![marvin](emoticons/marvin.png)             | marvin       |
 | ![nixit](emoticons/nixit.png)               | nixit        |
 | ![nyancat](emoticons/nyancat.gif)           | nyancat      |
 | ![penguin](emoticons/penguin.gif)           | penguin      |
