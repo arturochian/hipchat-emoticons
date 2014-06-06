@@ -34,6 +34,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![colorado](emoticons/colorado.png)         | colorado     |
 | ![dogecoin](emoticons/dogecoin.png)         | dogecoin     |
 | ![denver](emoticons/denver.png)             | denver       |
+| ![denver2](emoticons/denver2.png)           | denver2      |
 | ![fitbit](emoticons/fitbit.png)             | fitbit       |
 | ![gabe](emoticons/gabe.png)                 | gabe         |
 | ![gross](emoticons/gross.gif)               | gross        |
