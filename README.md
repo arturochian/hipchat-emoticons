@@ -33,6 +33,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![chachi](emoticons/chachi.png)             | chachi       |
 | ![colorado](emoticons/colorado.png)         | colorado     |
 | ![dogecoin](emoticons/dogecoin.png)         | dogecoin     |
+| ![denver](emoticons/denver.png)             | denver       |
 | ![fitbit](emoticons/fitbit.png)             | fitbit       |
 | ![gabe](emoticons/gabe.png)                 | gabe         |
 | ![gross](emoticons/gross.gif)               | gross        |
@@ -49,7 +50,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![nyancat](emoticons/nyancat.gif)           | nyancat      |
 | ![penguin](emoticons/penguin.gif)           | penguin      |
 | ![postgres](emoticons/postgres.png)         | postgres     |
-| ![public_enemy](emoticons/public_enemy.png) | public_enemy |
+| ![publicenemy](emoticons/publicenemy.png)   | publicenemy  |
 | ![pug](emoticons/pug.png)                   | pug          |
 | ![pug2](emoticons/pug2.png)                 | pug2         |
 | ![pug3](emoticons/pug3.png)                 | pug3         |
