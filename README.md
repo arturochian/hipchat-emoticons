@@ -19,6 +19,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![ambulance](emoticons/ambulance.gif)       | ambulance    |
 | ![angular](emoticons/angular.png)           | angular      |
 | ![bacon](emoticons/bacon.png)               | bacon        |
+| ![banana](emoticons/banana.gif)             | banana       |
 | ![bender](emoticons/bender.png)             | bender       |
 | ![bike](emoticons/bike.png)                 | bike         |
 | ![bluesteel](emoticons/bluesteel.gif)       | bluesteel    |
