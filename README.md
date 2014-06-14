@@ -38,6 +38,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![denver](emoticons/denver.png)             | denver       |
 | ![fitbit](emoticons/fitbit.png)             | fitbit       |
 | ![gabe](emoticons/gabe.png)                 | gabe         |
+| ![goal](emoticons/goal.gif)                 | goal         |
 | ![gross](emoticons/gross.gif)               | gross        |
 | ![germany](emoticons/germany.png)           | germany      |
 | ![heroku](emoticons/heroku.png)             | heroku       |
@@ -60,6 +61,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![pug3](emoticons/pug3.png)                 | pug3         |
 | ![rails](emoticons/rails.png)               | rails        |
 | ![rain](emoticons/rain.gif)                 | rain         |
+| ![redcard](emoticons/redcard.gif)           | redcard      |
 | ![rock](emoticons/rock.gif)                 | rock         |
 | ![ruby](emoticons/ruby.png)                 | ruby         |
 | ![saywhatagain](emoticons/saywhatagain.png) | saywhatagain |
@@ -69,4 +71,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![soccer](emoticons/soccer.png)             | soccer       |
 | ![takemymoney](emoticons/takemymoney.png)   | takemymoney  |
 | ![tuaca](emoticons/tuaca.png)               | tuaca        |
+| ![usa](emoticons/usa.png)                   | usa          |
 | ![worldcup](emoticons/worldcup.png)         | worldcup     |
+| ![yellowcard](emoticons/yellowcard.gif)     | yellowcard   |
