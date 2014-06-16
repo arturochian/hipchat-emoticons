@@ -16,8 +16,10 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | Image                                       | Shortcut     |
 | :-------------------------------------:     | -----------  |
 | ![007](emoticons/007.png)                   | 007          |
+| ![ambulance](emoticons/ambulance.gif)       | ambulance    |
 | ![angular](emoticons/angular.png)           | angular      |
 | ![bacon](emoticons/bacon.png)               | bacon        |
+| ![banana](emoticons/banana.gif)             | banana       |
 | ![bender](emoticons/bender.png)             | bender       |
 | ![bike](emoticons/bike.png)                 | bike         |
 | ![bluesteel](emoticons/bluesteel.gif)       | bluesteel    |
@@ -35,6 +37,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![dogecoin](emoticons/dogecoin.png)         | dogecoin     |
 | ![denver](emoticons/denver.png)             | denver       |
 | ![denver2](emoticons/denver2.png)           | denver2      |
+| ![donkeykong](emoticons/donkeykong.gif)     | donkeykong   |
 | ![fitbit](emoticons/fitbit.png)             | fitbit       |
 | ![gabe](emoticons/gabe.png)                 | gabe         |
 | ![gross](emoticons/gross.gif)               | gross        |
@@ -46,6 +49,8 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![kitten](emoticons/kitten.png)             | kitten       |
 | ![kitten2](emoticons/kitten2.png)           | kitten2      |
 | ![kitten3](emoticons/kitten3.png)           | kitten3      |
+| ![koopatroopa](emoticons/koopatroopa.gif)   | koopatroopa  |
+| ![luigi](emoticons/luigi.gif)               | luigi        |
 | ![marvin](emoticons/marvin.png)             | marvin       |
 | ![nixit](emoticons/nixit.png)               | nixit        |
 | ![nyancat](emoticons/nyancat.gif)           | nyancat      |
@@ -55,6 +60,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![pug](emoticons/pug.png)                   | pug          |
 | ![pug2](emoticons/pug2.png)                 | pug2         |
 | ![pug3](emoticons/pug3.png)                 | pug3         |
+| ![raccoon](emoticons/raccoon.gif)           | raccoon      |
 | ![rails](emoticons/rails.png)               | rails        |
 | ![rain](emoticons/rain.gif)                 | rain         |
 | ![rock](emoticons/rock.gif)                 | rock         |
