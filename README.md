@@ -35,6 +35,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![bueller](emoticons/bueller.png)           | bueller      |
 | ![cafewell](emoticons/cafewell.png)         | cafewell     |
 | ![chachi](emoticons/chachi.png)             | chachi       |
+| ![clippy](emoticons/clippy.png)             | clippy       |
 | ![colombia](emoticons/colombia.png)         | colombia     |
 | ![colorado](emoticons/colorado.png)         | colorado     |
 | ![dogecoin](emoticons/dogecoin.png)         | dogecoin     |
