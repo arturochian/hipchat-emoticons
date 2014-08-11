@@ -79,7 +79,10 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![rock](emoticons/rock.gif)                     | rock            |
 | ![ruby](emoticons/ruby.png)                     | ruby            |
 | ![saywhatagain](emoticons/saywhatagain.png)     | saywhatagain    |
+| ![seahawks](emoticons/seahawks.png)             | seahawks        |
 | ![seattle](emoticons/seattle.gif)               | seattle         |
+| ![seattle2](emoticons/seattle2.png)             | seattle2        |
+| ![seattle3](emoticons/seattle3.png)             | seattle3        |
 | ![shibe](emoticons/shibe.gif)                   | shibe           |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
 | ![soccer](emoticons/soccer.png)                 | soccer          |
