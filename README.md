@@ -41,6 +41,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![dogecoin](emoticons/dogecoin.png)             | dogecoin        |
 | ![denver](emoticons/denver.png)                 | denver          |
 | ![denver2](emoticons/denver2.png)               | denver2         |
+| ![diplo](emoticons/diplo.png)                   | diplo           |
 | ![donkeykong](emoticons/donkeykong.gif)         | donkeykong      |
 | ![fingerscrossed](emoticons/fingerscrossed.png) | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                 | fitbit          |
@@ -61,6 +62,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![kitten3](emoticons/kitten3.png)               | kitten3         |
 | ![koopatroopa](emoticons/koopatroopa.gif)       | koopatroopa     |
 | ![luigi](emoticons/luigi.gif)                   | luigi           |
+| ![majorlazer](emoticons/majorlazer.png)         | majorlazer      |
 | ![marvin](emoticons/marvin.png)                 | marvin          |
 | ![nixit](emoticons/nixit.png)                   | nixit           |
 | ![nyancat](emoticons/nyancat.gif)               | nyancat         |
