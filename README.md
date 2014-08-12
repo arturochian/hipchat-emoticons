@@ -20,7 +20,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![angular](emoticons/angular.png)               | angular         |
 | ![argentina](emoticons/argentina.png)           | argentina       |
 | ![bacon](emoticons/bacon.png)                   | bacon           |
-| ![bacon](emoticons/barbie.png)                  | barbie          |
+| ![barbie](emoticons/barbie.png)                 | barbie          |
 | ![banana](emoticons/banana.gif)                 | banana          |
 | ![bender](emoticons/bender.png)                 | bender          |
 | ![bike](emoticons/bike.png)                     | bike            |
