@@ -46,9 +46,9 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![fingerscrossed](emoticons/fingerscrossed.png) | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                 | fitbit          |
 | ![gabe](emoticons/gabe.png)                     | gabe            |
+| ![germany](emoticons/germany.png)               | germany         |
 | ![goal](emoticons/goal.gif)                     | goal            |
 | ![goodbye](emoticons/goodbye.gif)               | goodbye         |
-| ![germany](emoticons/germany.png)               | germany         |
 | ![greatdivide](emoticons/greatdivide.png)       | greatdivide     |
 | ![gross](emoticons/gross.gif)                   | gross           |
 | ![guinness](emoticons/guinness.png)             | guinness        |
