@@ -87,6 +87,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![shibe](emoticons/shibe.gif)                   | shibe           |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
 | ![soccer](emoticons/soccer.png)                 | soccer          |
+| ![surf](emoticons/surf.png)                     | surf            |
 | ![sydney](emoticons/sydney.png)                 | sydney          |
 | ![takemymoney](emoticons/takemymoney.png)       | takemymoney     |
 | ![tuaca](emoticons/tuaca.png)                   | tuaca           |
