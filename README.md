@@ -22,6 +22,8 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![bacon](emoticons/bacon.png)                   | bacon           |
 | ![barbie](emoticons/barbie.png)                 | barbie          |
 | ![banana](emoticons/banana.gif)                 | banana          |
+| ![bandaid](emoticons/bandaid.png)               | bandaid         |
+| ![bandaid2](emoticons/bandaid2.png)             | bandaid2        |
 | ![bender](emoticons/bender.png)                 | bender          |
 | ![bike](emoticons/bike.png)                     | bike            |
 | ![bluesteel](emoticons/bluesteel.gif)           | bluesteel       |
