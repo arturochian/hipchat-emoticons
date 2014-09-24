@@ -37,6 +37,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![broncos](emoticons/broncos.png)               | broncos         |
 | ![bueller](emoticons/bueller.png)               | bueller         |
 | ![cafewell](emoticons/cafewell.png)             | cafewell        |
+| ![catalonia](emoticons/catalonia.png)           | catalonia       |
 | ![chachi](emoticons/chachi.png)                 | chachi          |
 | ![clippy](emoticons/clippy.png)                 | clippy          |
 | ![colombia](emoticons/colombia.png)             | colombia        |
@@ -94,6 +95,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![shrimp](emoticons/shrimp.png)                 | shrimp          |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
 | ![soccer](emoticons/soccer.png)                 | soccer          |
+| ![spain](emoticons/spain.png)                   | spain           |
 | ![surf](emoticons/surf.png)                     | surf            |
 | ![sydney](emoticons/sydney.png)                 | sydney          |
 | ![takemymoney](emoticons/takemymoney.png)       | takemymoney     |
