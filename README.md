@@ -72,6 +72,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![luigi](emoticons/luigi.gif)                   | luigi           |
 | ![majorlazer](emoticons/majorlazer.png)         | majorlazer      |
 | ![marvin](emoticons/marvin.png)                 | marvin          |
+| ![maxim](emoticons/maxim.png)                   | maxim           |
 | ![nixit](emoticons/nixit.png)                   | nixit           |
 | ![nyancat](emoticons/nyancat.gif)               | nyancat         |
 | ![penguin](emoticons/penguin.gif)               | penguin         |
@@ -91,10 +92,12 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![seattle](emoticons/seattle.gif)               | seattle         |
 | ![seattle2](emoticons/seattle2.png)             | seattle2        |
 | ![seattle3](emoticons/seattle3.png)             | seattle3        |
+| ![semaphore](emoticons/semaphore.png)           | semaphore       |
 | ![shibe](emoticons/shibe.gif)                   | shibe           |
 | ![shrimp](emoticons/shrimp.png)                 | shrimp          |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
 | ![soccer](emoticons/soccer.png)                 | soccer          |
+| ![solomon](emoticons/solomon.png)               | solomon         |
 | ![spain](emoticons/spain.png)                   | spain           |
 | ![surf](emoticons/surf.png)                     | surf            |
 | ![sydney](emoticons/sydney.png)                 | sydney          |
