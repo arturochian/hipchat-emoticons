@@ -73,6 +73,9 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![majorlazer](emoticons/majorlazer.png)         | majorlazer      |
 | ![marvin](emoticons/marvin.png)                 | marvin          |
 | ![maxim](emoticons/maxim.png)                   | maxim           |
+| ![mustache](emoticons/mustache.png)             | mustache        |
+| ![mustache2](emoticons/mustache2.png)           | mustache2       |
+| ![mustache3](emoticons/mustache3.png)           | mustache3       |
 | ![nixit](emoticons/nixit.png)                   | nixit           |
 | ![nyancat](emoticons/nyancat.gif)               | nyancat         |
 | ![penguin](emoticons/penguin.gif)               | penguin         |
