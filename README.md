@@ -110,3 +110,4 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![usa](emoticons/usa.png)                       | usa             |
 | ![worldcup](emoticons/worldcup.png)             | worldcup        |
 | ![yellowcard](emoticons/yellowcard.gif)         | yellowcard      |
+| ![yoadrian](emoticons/yoadrian.png)             | yoadrian        |
