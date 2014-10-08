@@ -16,6 +16,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | Image                                           | Shortcut        |
 | :---------------------------------------------: | --------------- |
 | ![007](emoticons/007.png)                       | 007             |
+| ![adrian](emoticons/adrian.png)                 | adrian          |
 | ![ambulance](emoticons/ambulance.gif)           | ambulance       |
 | ![angular](emoticons/angular.png)               | angular         |
 | ![argentina](emoticons/argentina.png)           | argentina       |
