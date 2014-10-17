@@ -47,6 +47,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![denver](emoticons/denver.png)                 | denver          |
 | ![denver2](emoticons/denver2.png)               | denver2         |
 | ![diplo](emoticons/diplo.png)                   | diplo           |
+| ![docker](emoticons/docker.png)                 | docker          |
 | ![donkeykong](emoticons/donkeykong.gif)         | donkeykong      |
 | ![fingerscrossed](emoticons/fingerscrossed.png) | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                 | fitbit          |
