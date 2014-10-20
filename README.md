@@ -104,6 +104,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![soccer](emoticons/soccer.png)                 | soccer          |
 | ![solomon](emoticons/solomon.png)               | solomon         |
 | ![spain](emoticons/spain.png)                   | spain           |
+| ![steve](emoticons/steve.png)                   | steve           |
 | ![surf](emoticons/surf.png)                     | surf            |
 | ![sydney](emoticons/sydney.png)                 | sydney          |
 | ![takemymoney](emoticons/takemymoney.png)       | takemymoney     |
