@@ -18,6 +18,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![007](emoticons/007.png)                       | 007             |
 | ![adrian](emoticons/adrian.png)                 | adrian          |
 | ![alex](emoticons/alex.png)                     | alex            |
+| ![ali](emoticons/ali.png)                       | ali             |
 | ![ambulance](emoticons/ambulance.gif)           | ambulance       |
 | ![angular](emoticons/angular.png)               | angular         |
 | ![argentina](emoticons/argentina.png)           | argentina       |
@@ -38,6 +39,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![bond6](emoticons/bond6.png)                   | bond6           |
 | ![brazil](emoticons/brazil.png)                 | brazil          |
 | ![broncos](emoticons/broncos.png)               | broncos         |
+| ![bryan](emoticons/bryan.png)                   | bryan           |
 | ![bueller](emoticons/bueller.png)               | bueller         |
 | ![cafewell](emoticons/cafewell.png)             | cafewell        |
 | ![catalonia](emoticons/catalonia.png)           | catalonia       |
@@ -83,7 +85,9 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![mustache](emoticons/mustache.png)             | mustache        |
 | ![mustache2](emoticons/mustache2.png)           | mustache2       |
 | ![mustache3](emoticons/mustache3.png)           | mustache3       |
+| ![nate](emoticons/nate.png)                     | nate            |
 | ![nixit](emoticons/nixit.png)                   | nixit           |
+| ![nolan](emoticons/nolan.png)                   | nolan           |
 | ![nyancat](emoticons/nyancat.gif)               | nyancat         |
 | ![patrick](emoticons/patrick.png)               | patrick         |
 | ![penguin](emoticons/penguin.gif)               | penguin         |
@@ -105,6 +109,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![seattle3](emoticons/seattle3.png)             | seattle3        |
 | ![self](emoticons/self.png)                     | self            |
 | ![semaphore](emoticons/semaphore.png)           | semaphore       |
+| ![shabnam](emoticons/shabnam.png)               | shabnam         |
 | ![shibe](emoticons/shibe.gif)                   | shibe           |
 | ![shrimp](emoticons/shrimp.png)                 | shrimp          |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
