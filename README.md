@@ -6,9 +6,9 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to start showing up. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know. (Helpful tool for creating GIFs [EZgif animated GIF resizer](http://ezgif.com/resize))
 
-* Max dimensions are 30px tall and 30px wide
+* Max dimensions are 120px tall and 120px wide, can't be less than 64px
 * Use a transparent PNG or animated GIF for best results
-* Images must be under 100Kb
+* Images must be under 1MB
 * Currently limited to 100 custom emoticons
 
 ## Emoticons
