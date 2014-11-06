@@ -97,7 +97,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![seattle](emoticons/seattle.gif)               | seattle         |
 | ![seattle2](emoticons/seattle2.png)             | seattle2        |
 | ![seattle3](emoticons/seattle3.png)             | seattle3        |
-| ![self](emoticons/self.png)                     | self            |
 | ![semaphore](emoticons/semaphore.png)           | semaphore       |
 | ![shabnam](emoticons/shabnam.png)               | shabnam         |
 | ![sidekiq](emoticons/sidekiq.png)               | sidekiq         |
