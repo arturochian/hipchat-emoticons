@@ -38,6 +38,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![broncos](emoticons/broncos.png)               | broncos         |
 | ![bryan](emoticons/bryan.png)                   | bryan           |
 | ![bueller](emoticons/bueller.png)               | bueller         |
+| ![cache](emoticons/cache.gif)                   | cache           |
 | ![cafewell](emoticons/cafewell.png)             | cafewell        |
 | ![chachi](emoticons/chachi.png)                 | chachi          |
 | ![charlie](emoticons/charlie.png)               | charlie         |
