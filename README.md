@@ -79,7 +79,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![mustache](emoticons/mustache.png)               | mustache        |
 | ![mustache2](emoticons/mustache2.png)             | mustache2       |
 | ![mustache3](emoticons/mustache3.png)             | mustache3       |
-| ![nacho](emoticons/nacho.png)                     | nacho           |
+| ![nacho](emoticons/nacho.gif)                     | nacho           |
 | ![nate](emoticons/nate.png)                       | nate            |
 | ![nixit](emoticons/nixit.png)                     | nixit           |
 | ![nolan](emoticons/nolan.png)                     | nolan           |
