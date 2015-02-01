@@ -111,7 +111,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![surf](emoticons/surf.png)                       | surf            |
 | ![sydney](emoticons/sydney.png)                   | sydney          |
 | ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
-| ![tuaca](emoticons/tuaca.png)                     | tuaca           |
 | ![usa](emoticons/usa.png)                         | usa             |
 | ![wil](emoticons/wil.png)                         | wil             |
 | ![yellowcard](emoticons/yellowcard.gif)           | yellowcard      |
