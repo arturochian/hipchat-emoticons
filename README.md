@@ -55,7 +55,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![gabe](emoticons/gabe.png)                       | gabe            |
 | ![germany](emoticons/germany.png)                 | germany         |
 | ![goodbye](emoticons/goodbye.gif)                 | goodbye         |
-| ![greatdivide](emoticons/greatdivide.png)         | greatdivide     |
 | ![gross](emoticons/gross.gif)                     | gross           |
 | ![guinness](emoticons/guinness.png)               | guinness        |
 | ![heroku](emoticons/heroku.png)                   | heroku          |
@@ -76,7 +75,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![lonewolf](emoticons/lonewolf.png)               | lonewolf        |
 | ![luigi](emoticons/luigi.gif)                     | luigi           |
 | ![marvin](emoticons/marvin.png)                   | marvin          |
-| ![maxim](emoticons/maxim.png)                     | maxim           |
 | ![mustache](emoticons/mustache.png)               | mustache        |
 | ![mustache2](emoticons/mustache2.png)             | mustache2       |
 | ![mustache3](emoticons/mustache3.png)             | mustache3       |
@@ -103,13 +101,11 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![seattle2](emoticons/seattle2.png)               | seattle2        |
 | ![seattle3](emoticons/seattle3.png)               | seattle3        |
 | ![semaphore](emoticons/semaphore.png)             | semaphore       |
-| ![shabnam](emoticons/shabnam.png)                 | shabnam         |
 | ![sidekiq](emoticons/sidekiq.png)                 | sidekiq         |
 | ![soccer](emoticons/soccer.png)                   | soccer          |
 | ![solomon](emoticons/solomon.png)                 | solomon         |
 | ![steve](emoticons/steve.png)                     | steve           |
 | ![surf](emoticons/surf.png)                       | surf            |
-| ![sydney](emoticons/sydney.png)                   | sydney          |
 | ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
 | ![usa](emoticons/usa.png)                         | usa             |
 | ![wil](emoticons/wil.png)                         | wil             |
