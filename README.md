@@ -50,11 +50,13 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![denver2](emoticons/denver2.png)                 | denver2         |
 | ![docker](emoticons/docker.png)                   | docker          |
 | ![donkeykong](emoticons/donkeykong.gif)           | donkeykong      |
+| ![drumroll](emoticons/drumroll.gif)               | drumroll        |
 | ![fingerscrossed](emoticons/fingerscrossed.png)   | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                   | fitbit          |
 | ![gabe](emoticons/gabe.png)                       | gabe            |
 | ![germany](emoticons/germany.png)                 | germany         |
 | ![goodbye](emoticons/goodbye.gif)                 | goodbye         |
+| ![groovy](emoticons/groovy.png)                   | groovy          |
 | ![gross](emoticons/gross.gif)                     | gross           |
 | ![guinness](emoticons/guinness.png)               | guinness        |
 | ![heroku](emoticons/heroku.png)                   | heroku          |
@@ -63,6 +65,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![honeybadger](emoticons/honeybadger.png)         | honeybadger     |
 | ![iamgroot](emoticons/iamgroot.png)               | iamgroot        |
 | ![john](emoticons/john.png)                       | john            |
+| ![jim](emoticons/jim.png)                    		| jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
 | ![kangaroo3](emoticons/kangaroo3.png)             | kangaroo3       |
@@ -95,6 +98,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![redcard](emoticons/redcard.gif)                 | redcard         |
 | ![rock](emoticons/rock.gif)                       | rock            |
 | ![ruby](emoticons/ruby.png)                       | ruby            |
+| ![ruhroh](emoticons/ruhroh.png)                   | ruhroh          |
 | ![saywhatagain](emoticons/saywhatagain.png)       | saywhatagain    |
 | ![seahawks](emoticons/seahawks.png)               | seahawks        |
 | ![seattle](emoticons/seattle.gif)                 | seattle         |
