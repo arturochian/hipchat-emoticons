@@ -99,6 +99,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![roland](emoticons/roland.png)                   | roland          |
 | ![ruby](emoticons/ruby.png)                       | ruby            |
 | ![ruhroh](emoticons/ruhroh.png)                   | ruhroh          |
+| ![sam](emoticons/sam.png)                         | sam             |
 | ![saywhatagain](emoticons/saywhatagain.png)       | saywhatagain    |
 | ![seahawks](emoticons/seahawks.png)               | seahawks        |
 | ![seattle](emoticons/seattle.gif)                 | seattle         |
