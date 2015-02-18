@@ -78,6 +78,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![lonewolf](emoticons/lonewolf.png)               | lonewolf        |
 | ![luigi](emoticons/luigi.gif)                     | luigi           |
 | ![marvin](emoticons/marvin.png)                   | marvin          |
+| ![mike](emoticons/mike.png)                       | mike            |
 | ![mustache](emoticons/mustache.png)               | mustache        |
 | ![mustache2](emoticons/mustache2.png)             | mustache2       |
 | ![mustache3](emoticons/mustache3.png)             | mustache3       |
