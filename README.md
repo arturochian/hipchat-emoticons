@@ -17,10 +17,10 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | :-----------------------------------------------: | --------------- |
 | ![007](emoticons/007.png)                         | 007             |
 | ![adrian](emoticons/adrian.png)                   | adrian          |
-| ![alex](emoticons/alex.png)                       | alex            |
 | ![ali](emoticons/ali.png)                         | ali             |
 | ![ambulance](emoticons/ambulance.gif)             | ambulance       |
 | ![angular](emoticons/angular.png)                 | angular         |
+| ![ara](emoticons/ara.png)                         | ara             |
 | ![bacon](emoticons/bacon.png)                     | bacon           |
 | ![banana](emoticons/banana.gif)                   | banana          |
 | ![bandaid](emoticons/bandaid.png)                 | bandaid         |
@@ -48,6 +48,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![colorado](emoticons/colorado.png)               | colorado        |
 | ![denver](emoticons/denver.png)                   | denver          |
 | ![denver2](emoticons/denver2.png)                 | denver2         |
+| ![dewey](emoticons/dewey.png)                     | dewey           |
 | ![docker](emoticons/docker.png)                   | docker          |
 | ![donkeykong](emoticons/donkeykong.gif)           | donkeykong      |
 | ![drumroll](emoticons/drumroll.gif)               | drumroll        |
@@ -65,10 +66,9 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![honeybadger](emoticons/honeybadger.png)         | honeybadger     |
 | ![iamgroot](emoticons/iamgroot.png)               | iamgroot        |
 | ![john](emoticons/john.png)                       | john            |
-| ![jim](emoticons/jim.png)                    		| jim             |
+| ![jim](emoticons/jim.png)                    		  | jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
-| ![kangaroo3](emoticons/kangaroo3.png)             | kangaroo3       |
 | ![kevin](emoticons/kevin.png)                     | kevin           |
 | ![kitten](emoticons/kitten.png)                   | kitten          |
 | ![kitten2](emoticons/kitten2.png)                 | kitten2         |
@@ -78,6 +78,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![lonewolf](emoticons/lonewolf.png)               | lonewolf        |
 | ![luigi](emoticons/luigi.gif)                     | luigi           |
 | ![marvin](emoticons/marvin.png)                   | marvin          |
+| ![mike](emoticons/mike.png)                       | mike            |
 | ![mustache](emoticons/mustache.png)               | mustache        |
 | ![mustache2](emoticons/mustache2.png)             | mustache2       |
 | ![mustache3](emoticons/mustache3.png)             | mustache3       |
@@ -97,8 +98,10 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![rain](emoticons/rain.gif)                       | rain            |
 | ![redcard](emoticons/redcard.gif)                 | redcard         |
 | ![rock](emoticons/rock.gif)                       | rock            |
+| ![roland](emoticons/roland.png)                   | roland          |
 | ![ruby](emoticons/ruby.png)                       | ruby            |
 | ![ruhroh](emoticons/ruhroh.png)                   | ruhroh          |
+| ![sam](emoticons/sam.png)                         | sam             |
 | ![saywhatagain](emoticons/saywhatagain.png)       | saywhatagain    |
 | ![seahawks](emoticons/seahawks.png)               | seahawks        |
 | ![seattle](emoticons/seattle.gif)                 | seattle         |
@@ -109,7 +112,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![soccer](emoticons/soccer.png)                   | soccer          |
 | ![solomon](emoticons/solomon.png)                 | solomon         |
 | ![steve](emoticons/steve.png)                     | steve           |
-| ![surf](emoticons/surf.png)                       | surf            |
 | ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
 | ![usa](emoticons/usa.png)                         | usa             |
 | ![wil](emoticons/wil.png)                         | wil             |
