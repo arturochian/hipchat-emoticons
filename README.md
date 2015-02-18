@@ -17,10 +17,10 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | :-----------------------------------------------: | --------------- |
 | ![007](emoticons/007.png)                         | 007             |
 | ![adrian](emoticons/adrian.png)                   | adrian          |
-| ![alex](emoticons/alex.png)                       | alex            |
 | ![ali](emoticons/ali.png)                         | ali             |
 | ![ambulance](emoticons/ambulance.gif)             | ambulance       |
 | ![angular](emoticons/angular.png)                 | angular         |
+| ![ara](emoticons/ara.png)                         | ara             |
 | ![bacon](emoticons/bacon.png)                     | bacon           |
 | ![banana](emoticons/banana.gif)                   | banana          |
 | ![bandaid](emoticons/bandaid.png)                 | bandaid         |
@@ -48,6 +48,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![colorado](emoticons/colorado.png)               | colorado        |
 | ![denver](emoticons/denver.png)                   | denver          |
 | ![denver2](emoticons/denver2.png)                 | denver2         |
+| ![dewey](emoticons/dewey.png)                     | dewey           |
 | ![docker](emoticons/docker.png)                   | docker          |
 | ![donkeykong](emoticons/donkeykong.gif)           | donkeykong      |
 | ![drumroll](emoticons/drumroll.gif)               | drumroll        |
