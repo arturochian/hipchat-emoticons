@@ -68,7 +68,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![jim](emoticons/jim.png)                    		  | jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
-| ![kangaroo3](emoticons/kangaroo3.png)             | kangaroo3       |
 | ![kevin](emoticons/kevin.png)                     | kevin           |
 | ![kitten](emoticons/kitten.png)                   | kitten          |
 | ![kitten2](emoticons/kitten2.png)                 | kitten2         |
@@ -110,7 +109,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![soccer](emoticons/soccer.png)                   | soccer          |
 | ![solomon](emoticons/solomon.png)                 | solomon         |
 | ![steve](emoticons/steve.png)                     | steve           |
-| ![surf](emoticons/surf.png)                       | surf            |
 | ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
 | ![usa](emoticons/usa.png)                         | usa             |
 | ![wil](emoticons/wil.png)                         | wil             |
