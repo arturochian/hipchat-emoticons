@@ -65,7 +65,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![honeybadger](emoticons/honeybadger.png)         | honeybadger     |
 | ![iamgroot](emoticons/iamgroot.png)               | iamgroot        |
 | ![john](emoticons/john.png)                       | john            |
-| ![jim](emoticons/jim.png)                    		| jim             |
+| ![jim](emoticons/jim.png)                    		  | jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
 | ![kangaroo3](emoticons/kangaroo3.png)             | kangaroo3       |
@@ -97,6 +97,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![rain](emoticons/rain.gif)                       | rain            |
 | ![redcard](emoticons/redcard.gif)                 | redcard         |
 | ![rock](emoticons/rock.gif)                       | rock            |
+| ![roland](emoticons/roland.png)                   | roland          |
 | ![ruby](emoticons/ruby.png)                       | ruby            |
 | ![ruhroh](emoticons/ruhroh.png)                   | ruhroh          |
 | ![saywhatagain](emoticons/saywhatagain.png)       | saywhatagain    |
