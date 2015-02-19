@@ -49,6 +49,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![drumroll](emoticons/drumroll.gif)               | drumroll        |
 | ![fingerscrossed](emoticons/fingerscrossed.png)   | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                   | fitbit          |
+| ![fred](emoticons/fred.png)                       | fred            |
 | ![gabe](emoticons/gabe.png)                       | gabe            |
 | ![germany](emoticons/germany.png)                 | germany         |
 | ![goodbye](emoticons/goodbye.gif)                 | goodbye         |
