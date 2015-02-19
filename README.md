@@ -49,6 +49,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![drumroll](emoticons/drumroll.gif)               | drumroll        |
 | ![fingerscrossed](emoticons/fingerscrossed.png)   | fingerscrossed  |
 | ![fitbit](emoticons/fitbit.png)                   | fitbit          |
+| ![fred](emoticons/fred.png)                       | fred            |
 | ![gabe](emoticons/gabe.png)                       | gabe            |
 | ![germany](emoticons/germany.png)                 | germany         |
 | ![goodbye](emoticons/goodbye.gif)                 | goodbye         |
@@ -64,6 +65,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![jim](emoticons/jim.png)                    		  | jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
+| ![katie](emoticons/katie.png)                     | Katie           |
 | ![kevin](emoticons/kevin.png)                     | kevin           |
 | ![kitten](emoticons/kitten.png)                   | kitten          |
 | ![kitten2](emoticons/kitten2.png)                 | kitten2         |
