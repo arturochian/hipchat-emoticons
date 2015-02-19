@@ -64,6 +64,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![jim](emoticons/jim.png)                    		  | jim             |
 | ![kangaroo](emoticons/kangaroo.png)               | kangaroo        |
 | ![kangaroo2](emoticons/kangaroo2.png)             | kangaroo2       |
+| ![katie](emoticons/katie.png)                     | Katie           |
 | ![kevin](emoticons/kevin.png)                     | kevin           |
 | ![kitten](emoticons/kitten.png)                   | kitten          |
 | ![kitten2](emoticons/kitten2.png)                 | kitten2         |
