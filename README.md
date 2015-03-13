@@ -26,7 +26,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![bandaid](emoticons/bandaid.png)                 | bandaid         |
 | ![bandaid2](emoticons/bandaid2.png)               | bandaid2        |
 | ![ben](emoticons/ben.png)                         | ben             |
-| ![bender](emoticons/bender.png)                   | bender          |
 | ![bike](emoticons/bike.png)                       | bike            |
 | ![bluesteel](emoticons/bluesteel.gif)             | bluesteel       |
 | ![bond](emoticons/bond.png)                       | bond            |
