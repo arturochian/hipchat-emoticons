@@ -112,5 +112,6 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 | ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
 | ![usa](emoticons/usa.png)                         | usa             |
 | ![wil](emoticons/wil.png)                         | wil             |
+| ![wrongroom](emoticons/wrongroom.gif)             | wrongroom       |
 | ![yellowcard](emoticons/yellowcard.gif)           | yellowcard      |
 | ![yoadrian](emoticons/yoadrian.png)               | yoadrian        |
